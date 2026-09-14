@@ -1,1 +1,17 @@
-extract each and every word in this. explain all the concept in very detail manner in very simple language. please do not make any mistake. leanr everything from IPR management perpective. and please make sure you explain everything detail give me a docx well formated file which explain all the concept in this file in very precise accurate manner. keep document to the point concise and very clean manner. write in paragraph format add flow chart and diagram if required to explain any concept in better manner do you you research to fill any gap if there is any please make sure you give me a to the pont concize clearn docx for explain this pdf. this is for subject of IPR management and the TOpis is IP comercialization.   please make sure you give me a well formated document.need this in .docx file and formate it in proper manner and explain Ip comercialization in further detail. you can take refenrence from this book please give me complete understanding of IP comercialization as above pdf I have uploaded. and give a document file whic wellformated and in a flow which is easy to remember.
+Definitions, Concepts and Context                                                                
+Introduction to Intellectual Property Management
+Basic Definitions and Concepts
+Context for the development and measurement of intellectual property culture and value
+In search of paradigm shift from “intellectual property” to “intellectual capital”
+ 
+
+Intellectual Capital and Knowledge Economy   
+Intellectual capital and Knowledge Economy
+Transforming Intellectual Property into Intellectual Capital in competing economy
+Ideas and IPR in the determination of economic growth
+Intellectual property and Intellectual Capital: The role of non-proprietary technologies
+Identifying the objectives, purpose and players
+Intellectual property policies – Top Down and Bottom up approach
+Defining IP Policy for a corporation, university and research organizations
+What happens when rights of Trademark owners and Domain Name owners collide?
+Profiting from technology innovation and its implications from integration, collaboration, licensing and public policy
