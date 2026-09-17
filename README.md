@@ -70,4 +70,28 @@ Cases
 a. White Industries v India
 b. SPP v. Egypt
 c. AAPL v. Sri Lanka
+
+
+
+
  
+
+
+
+*labour law, KD sir portion*
+
+Trade union Act
+
+1. Registration and recognition of trade unions 
+2. Immunity - criminal and civil
+3. Intra union rivalry (2 questions)
+-Who will decide on the originality of the union?
+- how will it get decided?
+
+
+--> if you don't know the answer, use your English skills and write elaborate paragraphs. 
+But if you know the answer, be very brief and to the point. And highlight the keywords in your answers.
+
+Do critical analysis.
+
+
