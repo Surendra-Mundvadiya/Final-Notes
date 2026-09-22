@@ -1,6 +1,7 @@
 # Study Resources & Notes
 
-- **All Content (Google Drive):** [Drive Folder](https://drive.google.com/drive/folders/1aKnXCDF3UzvUncSfyTIGFA-C12EzSv0f)
+- **Main Source Folder (Google Drive):** [5th Sem Drive Folder](https://drive.google.com/drive/folders/1dUw-PtpkIVpD1fiUdBTXn0VdiqPS8B11)
+- **Additional Resources (Google Drive):** [IPR Drive Folder](https://drive.google.com/drive/folders/1aKnXCDF3UzvUncSfyTIGFA-C12EzSv0f)
 
 # Mid Semester Syllabus
 
