@@ -1,45 +1,8 @@
 # Study Resources & Notes
 
 - **Main Source Folder (Google Drive):** [5th Sem Drive Folder](https://drive.google.com/drive/folders/1dUw-PtpkIVpD1fiUdBTXn0VdiqPS8B11)
-- **Additional Resources (Google Drive):** [IPR Drive Folder](https://drive.google.com/drive/folders/1aKnXCDF3UzvUncSfyTIGFA-C12EzSv0f)
 
 # Mid Semester Syllabus
-
-## Alternative Dispute Resolution
-
-1. Salient Feature of International Commercial arbitration, Section 2(1)(f)
-2. Arbitration Agreement , Section 4
-3. Power to refer to parties to arbitration & Extent Judicial Intervention   ( Section 8 and 5).
-4. Arbitration Agreement, section 7
-5. Interim Measures, Section 9 & 17
-6. Number of Arbitrators, section 10
-7. Appointment of Arbitrators, section 11
-8. Ground and Procedure for Challenge, Section 12 &13
-9. Failure or impossibility to act, Section 14
-10. Termination of mandate and substitution of arbitrator, Section 15
-11. Competence of Arbitral Tribunal, section 16
-12. Conduct of Arbitral Proceeding (Full Chapter V of the act , Section 18-26.)
-
-### Cases:
-
-- **a)** R.M. Investment v. Boeing
-- **b)** Saipem v. Bangladesh
-- **c)** White Industries v. India
-- **d)** Bhatia International v. Bulk Trading
-- **e)** Venture Global Engineering v. Satyam Computers
-- **f)** Bharat Aluminium Co. V Kaiser Aluminium Technical Service Inc.
-- **g)** Scott v. Avery Clauses
-- **h)** Lohia v. Lohia
-- **i)** Tantia Constructions v. UoI
-- **j)** Emaar MGF Land Ltd. v. Aftab Singh
-- **k)** Jagdish Chnader v Ramesh Chander
-- **l)** Sundram Finance V. NEPC
-- **m)** Konkan Railway v Mehul Construction
-- **n)** SBP v Patel Engineering
-- **o)** Gullapalli Nageswar Rao v. APSRTC   (Gullapalli -I case )
-- **p)** Mauritius v. UK
-- **q)** Bharat Broadband Network Ltd. V. United Telecoms Ltd.
-- **r)** India Oil Corporation v Raja Transportation
 
 ## International Investment Law
 
