@@ -17,3 +17,15 @@
 - **a.** White Industries v India
 - **b.** SPP v. Egypt
 - **c.** AAPL v. Sri Lanka
+
+## Law Relating to Life Sciences (LRLS)
+
+- **International Ethical Codes**
+  - Ethics in Animal Research
+  - Bioethics
+- **Regulatory Framework for GM Crops in India, US, EU**
+  - Applicable regulations on GM crops in India (EPA 1986, Rules 1989, and GEAC’s role)
+  - Bt Cotton and Bt Brinjal: Legal controversies, state bans, and liability issues
+- **Cartagena Protocol on Biosafety**
+- **Regulatory Agencies for GM Crop / Food / Medicine and their functioning**
+
